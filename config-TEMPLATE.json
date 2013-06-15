@@ -1,0 +1,5 @@
+{
+	"appId": 	"your-app-id",
+    "secret": 	"your-app-secret",
+    "cookie": 	true
+}
